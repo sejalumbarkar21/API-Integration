@@ -107,5 +107,7 @@ This project marks the successful completion of **Task 1 (API Integration)** und
 
 ---
 ### **OUTPUT**
+<img width="1905" height="967" alt="Image" src="https://github.com/user-attachments/assets/64721e48-0b0f-4f65-b9a1-5f2fe7c449c6" />
+<img width="1919" height="913" alt="Image" src="https://github.com/user-attachments/assets/443e832e-b977-4449-bca4-3fad83b7ae02" />
 
 **END OF TASK 1 – API INTEGRATION (WEATHER APP)**
